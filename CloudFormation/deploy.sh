@@ -18,7 +18,9 @@ for file in $VPC_FILE $SG_FILE $INSTANCES_FILE; do
     echo " $file es válido."
 done
 
+
 echo ""
+echo "hola"
 
 #  Crear la VPC
 echo " Creando la VPC ($STACK_VPC)..."
