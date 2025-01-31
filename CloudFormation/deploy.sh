@@ -31,7 +31,7 @@ else
     echo " La clave SSH ya existe."
 fi
 
-echo ""
+echo "hola2"
 echo "hola"
 
 #  Crear la VPC
